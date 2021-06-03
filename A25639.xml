@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Answers for the Countess of Weymss [sic] to the petition given in by the Countess of Sutherland, to Their Majesties High Commissioner, and the Right Honourable the Estates of Parliament.</title>
+            <title>Answers for the Countess of Wemyss.</title>
+         </titleStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25639</idno><idno type="EEBO-CITATION">99826920</idno>
+  <idno type="VID">31331</idno>
+  <idno type="EEBO-PROQUEST">2240873408</idno>
+  
+            <idno type="STC">Wing A3465A</idno>
+            <idno type="STC">ESTC R214864</idno>
+            <idno type="PROQUEST">99826920</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99826920e"/>
+            <note>(EEBO-TCP ; phase 2, no. A25639)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31331)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1881:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Answers for the Countess of Weymss [sic] to the petition given in by the Countess of Sutherland, to Their Majesties High Commissioner, and the Right Honourable the Estates of Parliament.</title>
+                  <title>Answers for the Countess of Wemyss.</title>
+               </titleStmt>
+               <extent>[2], 9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>printed in the year 1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Wemyss, Margaret Wemyss, --  Countess of, 1659-1705 --  Early works to 1800.</term>
+               <term type="personal_name">Sutherland, Jean Gordon, --  Countess of, d. 1715 --  Early works to 1800.</term>
+               <term type="corporate_name">Scotland. --  Parliament --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:31331:1"/>
+            <pb facs="tcp:31331:1"/>
+            <p>ANSWERS FOR THE <hi>Countess of Weymss,</hi> TO THE PETITION Given in by the Countess of SUTHERLAND, To Their MAJESTIES High Commissioner, and the Right Honourable the Estates of PARLIAMENT.</p>
+            <p>
+               <hi>EDINBƲRGH,</hi> Printed in the Year 1693.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:31331:2"/>
+            <pb n="1" facs="tcp:31331:2"/>
+            <head>
+               <hi>ANSWERS</hi> For the Countess of <hi>VVemyss,</hi> to the Petition given in by the Countess of <hi>Sutherland,</hi> To their Majesties high Commissioner, and the Right Honourable the Estates of Parliament.</head>
+            <p>THe Earl of <hi>Wemyss</hi> having settled his Title of Honour and Estate, upon the Countess of <hi>Wemyss</hi> his Daughter of his last Marriage. The Countess of <hi>Sutherland</hi> his Daughter, of his first Marriage, gave in a Petition to the Parliament, <hi>Anno.</hi> 1681. complaining thereof, but an Answer be<g ref="char:EOLhyphen"/>ing made thereto, the Petition was rejected, and she took it up, and desert<g ref="char:EOLhyphen"/>ed it.</p>
+            <p>The said Countess, has now given in a second Petition to the Lord Commis<g ref="char:EOLhyphen"/>sioner, his Grace, and honourable Estates of Parliament, to the same purpose, But before the Countess of <hi>Wemyss</hi> make any any particular Answer thereto, she hum<g ref="char:EOLhyphen"/>bly represents.
+<list>
+                  <item>1. That the foresaid Tailzie made by her Father, in her favours, was not a clandestine and latent Deed, nor in his Sickness, nor at his Death, but many years before the same: First, by a Tailzie before her Marriage, whereupon Infeftment followed under the Great Seal, <hi>anno</hi> 1671.</item>
+                  <item>2. By her Contract of Marriage, whereunto many Noble Persons were Witnesses, &amp; whereupon likeways Infeftment followed under the Great Seal, <hi>anno</hi> 1673. both which are ratified under the hand of King <hi>Charles</hi> the second, and under his Great Seal.</item>
+               </list>
+            </p>
+            <p n="2">2. The foresaid Tailzie in favours of the Countess of <hi>Wemyss,</hi> was upon serious and weighty Considerations. For
+<list>
+                  <item>1. The Earl of <hi>Wemyss</hi> did always declare, that he would not have his Family and Estate swallowed up and confounded in the great Families, to which the Countess of <hi>Sutherland</hi> his Daughter was married, but that he would have his Family kept distinct in the antient Line from theirs. And therefore when the Countess of <hi>Sutherland</hi> married the Earl of <hi>Angus,</hi> her first Husband, her Father gave her 45000 Merks in Tocher, in satisfaction of all Provisions made by him, in her favours; and thereafter tailzied his Estate to the now Countess of <hi>Wemyss</hi> his Daughter, whom he married to a Gentlemam of his own Name and Blood.</item>
+                  <item>2. When the Earl of <hi>Wemyss</hi> married the Countess of <hi>Buccleugh,</hi> Mother to this Countess of <hi>Wemyss:</hi> His Estate was sunk with Burdens, and was recovered by two great Joynters she had by her former Marriages; and by a considerable Pension which she had from the King, which during the many year, they lived together, extended to a vast Sum: So that out of Gratitude to his Lady, (by whose means his Family was preserved from ruin) he tailzied his Estate to her Daughter.</item>
+               </list>
+            </p>
+            <p n="3">3. As the Tailzies made by the Earl of <hi>Wemyss,</hi> to this Countess of <hi>Wemyss</hi> his Daughter, were publick Deeds, and upon weighty Considerations; so likways for eliding the Countess of <hi>Sutherland</hi> her Pretences, the Countess of <hi>Wemyss</hi>
+               <pb n="2" facs="tcp:31331:3"/>obtained first a Declarator before the Lords of Session, <hi>anno</hi> 1680. against the Countess of <hi>Sutherland in foro contradictorio,</hi> finding and declaring, that the Countess of <hi>Wemyss,</hi> by the Tailzies and Rights foresaids, has the only Right to the foresaid Title of Honour and Estate, and that the Countess of <hi>Sutherland</hi> has no Right thereto: And therefore discharging the Countess of <hi>Sutherland</hi> to trouble the Countess of <hi>Wemyss,</hi> in the peaceable Possession and injoyment thereof. 2. The Countess of <hi>Wemyss,</hi> did <hi>in anno</hi> 1681. obtain Decreet of Reduction and Impro<g ref="char:EOLhyphen"/>bation, before the Lords of Session, against the Countess of <hi>Sutherland,</hi> of her pretended Rights to the said Title of Honour and Estate, and of the Bonds of Provision, alledged made by the Earl of <hi>Wemyss</hi> to <hi>Alexander</hi> and Lady <hi>Mary Wemyses,</hi> her Brother and Sister (whereto she pretended Right) as false and feinzied; so that the Countess of <hi>Wemyss</hi> her Right being publick Deeds, cled with Possession, now by the space of 22 years. And she having obtained the foresaids Decreets of Declarator, Reduction and Improbation of the Countess of <hi>Sutherland</hi> her pretended Rights; The Countess of <hi>Sutherland</hi> cannot be now ad<g ref="char:EOLhyphen"/>mitted to assert her own Right, nor to quarrel the Countess of <hi>Wemyss,</hi> her Right to the Title of Honour and Estate of <hi>Wemyss,</hi> which is unquestionably secured by all that the King and the Laws of the Land can give her.</p>
+            <p>The foresaids general and total Defences being premitted (which the Coun<g ref="char:EOLhyphen"/>tess of <hi>Wemyss</hi> humbly desires the Lord Commissioner his Grace, and honourable Estates of Parliament, to consider in the first place) The said Countess makes a particular Answer to the several Points, in the Petition, which are nothing but a <hi>Rapsodie</hi> and Congestion of made up Stories, which yet are as irrelevant in Law, as they are false in matter of Fact, as will appear by the following Answers.</p>
+            <p n="1">1. It is alledged in the Petition, that the Estate of <hi>Wemyss,</hi> by the antient Rights thereof, was provided to the Heirs whatsoever: And that the late Earl of <hi>Wemyss</hi> likewise designed the same, with this Difference only, that the eldest Heir Female, should succeed without Division.</p>
+            <p>To this it is answered.
+<list>
+                  <item>1. That by the antient Rights, the Estate of <hi>Wemyss</hi> is only provided to Heirs Male, and no way to Heirs whatsoever; in so much, that if the Heirs Male had failized, the Estate would have fallen to the King, as <hi>ultimus Haeres.</hi> Likeas, the first Patent of Honour, is to Heirs Male, and the said <hi>David</hi> Earl of <hi>Wemyss</hi> did, <hi>anno</hi> 1651. obtain a Charter under the King's hand, and Great Seal, of his Title of Honour and Estate, upon his own Re<g ref="char:EOLhyphen"/>signation, in favours of himself, and the Heirs Male of his Body, which failing, to any person he should nominat, and failing of any such Nomination, to his nearest Heirs Male, and no ways to his Heirs whatsoever, as the said Charter and Patent of Honour, and old Infeftments ready to be produced bears; So that it is strange, it should be alledged, that the Estate was antiently provided to Heirs whatsoever: And that the said <hi>David</hi> Earl of <hi>Wemyss</hi> did provide it to the eldest Heir Female, without Division. But</item>
+                  <item>2. Although the foresaid Alledgiance were true, as it is not, yet it is no ways relevant, seing the Earl of <hi>Wemyss</hi> being Fiar, might have altered and disponed upon his Estate, as <hi>de facto</hi> he did in favours of the now Countess of <hi>Wemyss,</hi> his youngest Daughter.</item>
+               </list>
+            </p>
+            <p n="2">2. It is alledged in the Petition, that the said <hi>David</hi> Earl of <hi>Wemyss,</hi> made a Tailzie, <hi>anno</hi> 1649. By which, the Estate was provided to the Countess of <hi>Sutherland,</hi> his eldest Daughter, failing Heirs Male of his own Body, and delivered it to her, and that the same, was a considerable time in her Custody, but when her Mother became valetudinary, &amp; was upon Death-bed, The Earl dealt with her mo<g ref="char:EOLhyphen"/>ther, to perswade the Countess to give it up to her Father, to be kept for her be<g ref="char:EOLhyphen"/>hove:
+<pb n="3" facs="tcp:31331:3"/>And the Countess having then two Brothers alive, who had the immedi<g ref="char:EOLhyphen"/>at interest to the Estate; and she being unwilling to displease her Mother, did at her desire deliver up the Tailzie to her Father, upon this express Condition, that he should keep it intire; And that the Countess of <hi>Sutherland</hi> should succeed by vertue thereof, in case he had not Heirs Male of his Body: And that the Earl not only promised to do so, but also confirmed his Promise by a solemn Oath, wishing likeways, that if he should make any other Right of Intail in favours of any other Person, in prejudice of the said Countess, that the said person might be accursed, and that the Family might perish; and the Countess affirms, that her Father did the same in presence of several persons, and that some of them are yet alive.</p>
+            <p>To this it is answered,
+<list>
+                  <item>1. That the said Alledgeance is is no ways relevant, for albeit the Earl of <hi>Wemyss</hi> had made the foresaid Tailzie, in favours of the Countess of <hi>Sutherland,</hi> and had delivered it to her, and had received it back a<g ref="char:EOLhyphen"/>gain, upon his Promise and Oath, that he should not wrong it; yet it being a latent Dead, whereupon nothing followed, and the Earl having by the foresaids publick deeds, settled his Estate upon this Countess of <hi>Wemyss:</hi> The pretence of the foresaid first latent Tailzie, can no ways wrong nor prejudge the Countess of <hi>Wemyss,</hi> her publick Right and Infeftments.</item>
+                  <item>2. Altho the said Alledgeance were relevant, as it is not, yet it is only probable <hi>Scripto vel Juramento,</hi> by Writ or Oath, and no ways by witnesses, it being against Law and Practique, that the least Estate in the Kingdom can be taken away by Witnesses, far less so con<g ref="char:EOLhyphen"/>siderable Estate as that of <hi>Wemyss,</hi> and Title of Honour thereof.</item>
+               </list>
+            </p>
+            <p>But that the Lord Commissioner, his Grace, and honourable Estates of Par<g ref="char:EOLhyphen"/>liament, may be convinced of the falshood of the foresaid Alledgeance; It is humbly desired, they may be pleased to consider,
+<list>
+                  <item>1. That <hi>John</hi> Earl of <hi>Wemyss,</hi> father to the said <hi>David</hi> Earl of <hi>Wemyss,</hi> was living <hi>anno</hi> 1649. And it is not to be imagined, that the said <hi>David</hi> Earl of <hi>Wemyss,</hi> would in his Fathers lifetime, have altered the Tailzie, made by his Father to him and his Heirs Male, in fa<g ref="char:EOLhyphen"/>vours of the Countess of <hi>Sutherland</hi> his Daughter.</item>
+                  <item>2. The Countess of <hi>Suther<g ref="char:EOLhyphen"/>land</hi> was married to the Earl of <hi>Angus,</hi> in <hi>April</hi> 1649. And in her Contract of Marriage, she accepts of fourty five Thousand Merks payed be her Grand-Father and Father in Tocher with her, in full satisfaction of all Pro<g ref="char:EOLhyphen"/>visions made by them to her, and if the foresaid pretended Tailzie had been be<g ref="char:EOLhyphen"/>fore the Marriage, it would have been excepted from the foresaid Clause of Ac<g ref="char:EOLhyphen"/>ceptation: And it is not to be presumed, that the Earl of <hi>Wemyss,</hi> would have tailzied his Estate to the said Countess his Daughter, after he had given her so great a Provision, and had married her to so great a Family, thereby to have con<g ref="char:EOLhyphen"/>founded his Estate and Family, in that Family; And if need beis, it could be pro<g ref="char:EOLhyphen"/>ven that he never designed to Tailzie his Estate to any of his Daughters that should be married to other Families, than to Gentlemen of his own Name and Blood.</item>
+                  <item>3. The Countess of <hi>Sutherland</hi> was married in <hi>April,</hi> and her Mother died in <hi>September</hi> thereafter; so that the Tailzie, alledged made to her after her Marri<g ref="char:EOLhyphen"/>age, could not be a considerable time in her custody before her Mothers death.</item>
+                  <item>4. With what probability can it be thought, that the Earl of <hi>Wemyss</hi> would have delivered the Tailzie to the Countess of <hi>Sutherland</hi> his Daughter, to be kept by her after she was married to the Earl of <hi>Angus,</hi> but would rather have kept it himself; And why would the Countess of <hi>Sutherland</hi> have refused to deliver it back to her Father, since it was in his power to alter it, where ever it was?
+<pb n="4" facs="tcp:31331:4"/>And why would the Earl of <hi>Wemyss</hi> bind up himself by Promise and Oath, that he should not break the Tailzie? And why should he have cursed the person in whose Favour he should alter it, and his Family for ever thereafter? But those made up Stories, are of design to load her Fathers Memory with breach of Pro<g ref="char:EOLhyphen"/>mise, Perjury, and Imprecations upon this Countess of <hi>Wemyss,</hi> his Daughter and the Family; which doth no ways contribute to the Countess of <hi>Sutherland</hi> her Advan<g ref="char:EOLhyphen"/>tage, nor have credit or weight with just and good Men, but which doth make her Criminal before God and man, and obnoxious to the Curse pronounced against Cur<g ref="char:EOLhyphen"/>sers, and Speakers evil of Parents; yea, and although that which is falsly alledged, were true, yet she is lyable to the Curse pronounced by <hi>Noah,</hi> against his Son <hi>Cham,</hi> for discovering his Nakedness.</item>
+                  <item>5. The improbability of the foresaid Tailzie, is evident from this, That <hi>Anno</hi> 1651. (when the King was at <hi>Stirling,</hi> and which was not two years after the foresaid alleadged Tailzie) the Earl of <hi>Wemyss</hi> obtained under the Kings Hand and Great Seal, a Charter of his Title of Honour and Estate, in favours of his Heirs-male, and no ways to his Heirs whatsoever: now if there had been any Tailzie <hi>Anno</hi> 1649 in favours of the Countess of <hi>Sutherland,</hi> she and the Earl of <hi>Angus</hi> her Husband, (who were oft at Court) would have opposed that In<g ref="char:EOLhyphen"/>feftment and Tailzie, whereby she and the Heirs betwixt them, were excluded.</item>
+                  <item>6. When the Earl of <hi>Wemyss</hi> married his last Lady, all his Sons were dead: but because his Estate was tailzied to his other Heirs-male, as said is: In his Con<g ref="char:EOLhyphen"/>tract of Marriage with that Lady, <hi>Anno</hi> 1652. (whereto the Earl of <hi>Angus</hi> was a Witness, and at which his Lady was present) there is a Provision for the Daugh<g ref="char:EOLhyphen"/>ters of that Marriage, expresly upon that Ground, that the Estate was tailzied to Heirs-male. Now if there had been a Tailzie thereof to the Countess of <hi>Su<g ref="char:EOLhyphen"/>therland</hi> and her Children, <hi>Anno</hi> 1649. The Earl of <hi>Angus</hi> and his Lady, would have reclaimed against that Clause in the Contract, which affirmed the Estate to be tailzied to Heirs-male; but that Tailzie was never heard of, before the year 1672. Nor never seen by any, before or since.</item>
+               </list>
+            </p>
+            <p n="3">3. It is alledged in the Petition, That <hi>Anno</hi> 1671. the Earl of <hi>Wemyss</hi> being old and infirm, by the Importunities and Insinuations of the deceased Countess of <hi>Wemyss</hi> his last Lady, was prevailed upon, to make a new Tailzie in favours of this Countess of <hi>Wemyss</hi> their Daughter, and that the Countess of <hi>Sutherland</hi> having complained thereof to her Father, he declared he was forced to do it, to please his Wife, and keep peace at home; and she having represented to him his Promise and Oath foresaid, he answered that she had wounded him to the heart, in putting him in mind thereof; and his Lady did so order the Affair, that the Countess could never have the Occasion thereafter, to meet with, or see her Father.</p>
+            <p>To this it is answered,
+<list>
+                  <item>1. That the foresaid Alledgeance is no ways relevant, for although the Earl of <hi>Wemyss</hi> had been old and infirm, when he made the fore<g ref="char:EOLhyphen"/>said Tailzie, and although he had made the same by the Importunity of his Lady, and although the rest of the Particulars in the Assertion were true, as they are not; yet the same is no Ground to invalidat and take away the Countess of <hi>Wemyss,</hi> her publick Rights foresaids. But,</item>
+                  <item>2. As the foresaids Alledgiances are not Relevant, so they are absolutely false, in point of Fact.</item>
+               </list> For, 1. The Earl of <hi>Wemyss,</hi> was little above sixty years of Age in the Year 1671, when he made the foresaid Tailzie, in favours of the Countess of <hi>Wemyss</hi> his Daughter, and he was not then Infirm, but in as good Health and Strength, and Memory, and Judgment, as he had been many years before, and continued so for many years thereafter, constantly travelling up and down about his Affairs, and coming oft to <hi>Edinburgh</hi> to Council and Session, and to all publick Meetings, as is well
+<pb n="5" facs="tcp:31331:4"/>known to many of the Parliament; likeas he had no sickness, while six or eight days before his decease, having dyed of a Gravel, without Fever or other sick<g ref="char:EOLhyphen"/>ness; so that it is falsly alledged, that he made the foresaid Tailzie, in his Old-age and Infirmity.</p>
+            <p n="2">2. There is nothing more false, than that the Earl of <hi>Wemyss</hi> settled his Estate, upon this Countess of <hi>Wemyss,</hi> by the Importunities and Insinuations of her Mo<g ref="char:EOLhyphen"/>ther; for her Mother would have had her married (with a Portion only) to a no<g ref="char:EOLhyphen"/>ble Relation of her own, and a greater Family, or to other great Matches, which offered from <hi>England,</hi> and otherways; and urged the same upon these Grounds, <hi>viz.</hi> That the Lord <hi>Burnt-Island</hi> was not of the Quality and Estate, of those great Matches, and that he did not bring any Alliance to the Family, and that there was an unequality in their Years, and that the Estate of <hi>Wemyss</hi> being re<g ref="char:EOLhyphen"/>deemable from her Daughter, by the Heirs-male of the Earls body, by payment of 40000 <hi>lib.</hi> as Tocher, her Daughter would be thereby brought to a low Con<g ref="char:EOLhyphen"/>dition, and greatly wronged, in neglecting the great Matches that offered for her; yet the Earl would give no ear to these Reasons, which her Mother urged seriously, and with great instance, nor would he be diverted from the Resolu<g ref="char:EOLhyphen"/>tion he had taken, of settling his Estate upon his Daughter, and marrying her to the Lord <hi>Burnt-Island,</hi> a Gentleman of his own Name and Blood, for continu<g ref="char:EOLhyphen"/>ing the Estate and Family in the Old Line; so that albeit the deceast Countess of <hi>Wemyss,</hi> did at length out of Duty, comply with the Lord to please him, yet there can be no greater injustice, then to charge her, as the Cause of the said settlement of the Estate upon her Daughter.</p>
+            <p n="3">3. It is likeways impudent, and against the Duty of a Child, to alledge that the Countess of <hi>Sutherland,</hi> represented to her Father, that he had promised to keep the Tailzie, alledged made in her favours, and that he had confirmed it with an Oath, and Imprecation; and that thereupon her Father said, she had wounded him to the heart, for albeit it were true that she alledged upon her Fa<g ref="char:EOLhyphen"/>ther, that he had made a Tailzie in her favours, yet she had not the confidence to affirm upon him, that he had promised not to break it, and that he had con<g ref="char:EOLhyphen"/>firmed that promise, with an Oath and Imprecation; for he was so incensed a<g ref="char:EOLhyphen"/>gainst her for her pretending, that he made a Tailzie which he had not made, and for causing the Earl of <hi>Forfar,</hi> take Instruments in Exchequer, against the Resignation made by her Father, in favours of this Countess of <hi>Wemyss,</hi> of his Title of Honour and Estate, that he swore before several persons of Quality, that she nor none of hers, should be in his Tailzie. Likeas, he would not there<g ref="char:EOLhyphen"/>after look upon her, nor did she come thereafter to him; and this Alienation of her Fathers affection, proceeding from her own miscarriage, cannot be charged upon the deceased Countess of <hi>Wemyss,</hi> her Mother in Law.</p>
+            <p n="4">4. It is alledged in the Petition, that the Countess of <hi>Sutherland,</hi> is certainly informed, that her Father was sensible, of the wrong he had done her, by the last Intail, that by a Writ under his Hand a little before his Death, he revocked the said Tailzie, and declared it should no ways prejudge his eldest Daughter and her Heirs; and that he had trusted the said Paper to the keeping of a confi<g ref="char:EOLhyphen"/>dent Person, to be delivered to her, but that his Lady hearing thereof, prevail<g ref="char:EOLhyphen"/>ed with her Bounty and Liberality, either to get up that Paper, or to keep it up; so that it was never delivered to the Countess of <hi>Sutherland.</hi>
+            </p>
+            <p>To this it is Answered,
+<list>
+                  <item>1. That the said Alledgeance is a made up Story, &amp; <hi>e<g ref="char:EOLhyphen"/>jusdem farine</hi> with the former, but the Countess of <hi>Sutherland</hi> is so modest in this, that she does not affirm the Truth of it, but allenarly says, that she is certainly informed
+<pb n="6" facs="tcp:31331:5"/>thereof, and yet if her Information had been certain, she ought to have conde<g ref="char:EOLhyphen"/>scended upon her Informers, and upon the Gentleman to whom the Paper was Intrusted, and particularly upon the two Bailies of the <hi>Wemyss</hi> their Names, whom in her Printed Information she asserts to be her Informers. But,</item>
+                  <item>2. The foresaid Alledgeance is no ways Relevant, for the Earl having Disponed his Estate and Honour to this Countess of <hi>Wemyss,</hi> his Daughter in her Contract of Marriage, (Reserving his own Liferent, and a Reversion to the Heirs Male of his Body) whereupon Infeftment followed under the Great Seal, It was not in his Power thereafter to Revoke or alter the samine, and which would have been of no import.</item>
+                  <item>3. As the said Alledgeance is not Relevant, so it is not true, for during his Sickness, and at his Death, he made no favourable mention of the Countess of <hi>Sutherland,</hi> but continued in the great Affection and Respect, which he always had to the Countess of <hi>Wemyss</hi> his Daughter, who constantly at<g ref="char:EOLhyphen"/>tended him, and called for her Children and blessed them, looking upon them as the Heirs and Representatives of his Family.</item>
+               </list>
+            </p>
+            <p n="5">5. It is alledged in the Petition, that by the Laws of Nature and Nations, and Municipal Laws of this Kingdom, and the Antient Rights of the Family, the Estate was to descend to Heirs whatsomever, and that consequently, the Daugh<g ref="char:EOLhyphen"/>ters, especially the eldest Daughter had Right to succeed failzieing Heirs Male, and that therefore, it was unjust and injurious to pass by the Countess of <hi>Sutherland</hi> the eldest Daughter, and give it to the youngest Daughter, unless the Countess had been a Fool, or Idiot, or had highly disobliged her Father, or had Married without his Consent, and that in regard thereof, the Tailzie to the youngest Daughter cannot be sustained, in Prejudice of the Countess of <hi>Su<g ref="char:EOLhyphen"/>therland</hi> the eldest Daughter, else the Children of the first Marriage, who should Represent the Family, cannot be secure.</p>
+            <p>To this it is Answered, 1. There is no Law of Nature ordering Succession, &amp; every Nation hath their several Laws and Customs in their Successions, but for the most part, the same is in the Arbitrament of the Proprietar, and in this Kingdom there is no Law that hinders Parents or Proprietars to dispose of their own at their pleasure; but in case they should not happen to dispose there<g ref="char:EOLhyphen"/>on, then Law, Custom and Practique, regulats the order of Succession, als well in Movables as in Heretage: And it can be proven, that by the antient Rights of the Estate, ready to be produced, it descended to Heirs-Male; and as <hi>David</hi> Earl of <hi>Weymss</hi> was Proprietar, and Fiar thereof, and might have dispo<g ref="char:EOLhyphen"/>sed thereof at his pleasure; so <hi>de facto</hi> he has settled and disposed upon the same in favours of the Countess of <hi>Weymss</hi> his youngest Daughter, and continued it in the old Line of the Family by marrying her to a Gentleman of his own Name and Blood, and wherewith the Countess of <hi>Sutherland</hi> ought to be well satisfied, (her Father having married her to a great and noble Family, and given a great Portion with her,) And the Countess of <hi>Sutherland</hi> her Assertion, that it was un<g ref="char:EOLhyphen"/>just and injurious to pass by her without a Cause, and that by this the Children of first Marriages, who properly should represent the Family, can never be se<g ref="char:EOLhyphen"/>cure, are Words of no weight nor import. For
+<list>
+                  <item>1. She had highly offended her Father, and was an undutiful Daughter als well in his Lifetime, as now after his Death, by Raking up his Ashes, and loading his Memory with Unfaithfulness, and breach of Promise, Perjury, and as guilty of Imprecations upon his Daugh<g ref="char:EOLhyphen"/>ter and Family, which will not commend her to good Men.</item>
+                  <item>2. Her Father had free liberty to dispose of his own as he pleased, and was not obliged to please her in the choice of hes Successor.</item>
+                  <item>3. He settled his Estate upon this Countess of
+<pb n="7" facs="tcp:31331:5"/>
+                     <hi>Weymss</hi> upon the weighty Considerations above-narrated, and there is no consi<g ref="char:EOLhyphen"/>dering person, but will think that a Father of an antient Family having no Heirs-Male of his Body, being desirous to continue his Estate in the antient Line; but that with great reason he may settle his Estate upon the youngest Daughter, and marry her to a Gentleman of his own Name and Blood, having first married his eldest Daughter to a noble and great Family of greater Consideration than his own; and the Countess of <hi>Sutherland</hi> has oft, and within this five or six Weeks, at <hi>Abbots-hall,</hi> affirmed she knew her Father designed to settle his Estate upon Lady <hi>Mary</hi> her younger Sister, before his last Marriage; which clears her Fa<g ref="char:EOLhyphen"/>thers design from the beginning to continue his Family in the antient Line, and not to confound it with a greater; so that there is nothing in the Alledgances foresaids that has the least shadow of relevancy to take from the Countess of <hi>Weymss</hi> her Right to her Estate and Title of Honour.</item>
+               </list>
+            </p>
+            <p n="6">6. It is alledged in the Petition, that the youngest Daughter is preferred to the eldest, and failing of Heirs of her Body, the Estate is provided to the Heirs of the Lord <hi>Burnt-Island</hi> a Stranger, and that the same is not only a personal in<g ref="char:EOLhyphen"/>jury to the Countess of <hi>Sutherland,</hi> but to the noble Family she is matched with.</p>
+            <p>To this it is answered <hi>ut supra,</hi> that her Father might have disposed upon his Estate as he pleased, and the Lord <hi>Burnt-Island</hi> was not a Stranger to her Fa<g ref="char:EOLhyphen"/>ther, but of his Name and Blood, and no injury was done in this to her, or the Family she matched with, for the reason immediatly above-written.</p>
+            <p n="7">7. The Countess of <hi>Sutherland</hi> declares, that albeit she may claim the whole Estate by the Tailzie made in her favours <hi>anno</hi> 1649, yet she is content the Estate be divided betwixt them, which being so considerable (as the Casual Rent there<g ref="char:EOLhyphen"/>of is 60000 Merks yearly, as she is informed, notwithstanding of the War, besides the Real Rent) may admit of a Division.</p>
+            <p>To this it is answered,
+<list>
+                  <item>1. That if the Countess of <hi>Sutherland</hi> could recover the Estate by the pretended Tailzie, alledged made in her favours <hi>anno</hi> 1649, she would give no part of it to the Countess of <hi>Weymss,</hi> and the Countess of <hi>Weymss</hi> being the true Owner of it by the Tailzie 1671, will follow <hi>Solomons</hi> Judgment and Decision upon the like case, and keep it intirely to her self with<g ref="char:EOLhyphen"/>out Division thereof.</item>
+                  <item>2. The Countess of <hi>Sutherland</hi> is grosly misinformed of the real and casual Rent, and her Informers have been looking thorow a Multi<g ref="char:EOLhyphen"/>plying-glass, if they have it from the Chamberlains Accompts.</item>
+               </list>
+            </p>
+            <p n="8">8. In the former Section of the Petition, the Countess of <hi>Sutherland</hi> seemed to be so just and kind, as that she was content to take the half; but in the next Paragraph she would have also the other half, upon the pretence of two Bonds of Provision alledged granted by her Father to <hi>Alexander</hi> her Brother and Lady <hi>Ma<g ref="char:EOLhyphen"/>ry</hi> her Sister, which in her printed Information are affirmed to extend to 15000 <hi>lib. Sterling,</hi> and to which she pretends she has Right as nearest of Kin to them.</p>
+            <p>To this it is answered, That it is denyed that there were such Bonds of Provi<g ref="char:EOLhyphen"/>sion, and if they shall be produced, then an answer shall be made thereto; But <hi>Alexander</hi> having died before he was three years of Age, and Lady <hi>Mary</hi> having died before she was sixteen years of Age, it may be conceived that they died be<g ref="char:EOLhyphen"/>fore the Term of Payment; and both of them being dead many years before their Father, the Provisions made to them became thereby extinct, and could not de<g ref="char:EOLhyphen"/>scend to their nearest of Kin.</p>
+            <p n="9">9. In the last place the Countess of <hi>Sutherland</hi> craves it may be found and de<g ref="char:EOLhyphen"/>clared, that she has Right, at least to the half of the Estate, and that the Coun<g ref="char:EOLhyphen"/>tess of <hi>Weymss</hi> may be decerned to denude her self thereof in her favours, and to
+<pb n="8" facs="tcp:31331:6"/>make payment to her of the half of the Rents of the Estate since their Fathers de<g ref="char:EOLhyphen"/>cease, and that the Countess of <hi>Wemyss</hi> may be decerned to exhibite and deliver the foresaids Bonds of Provision, alledged granted by the Earl of <hi>Wemyss</hi> to Mr. <hi>Alexander</hi> and Lady <hi>Mary Wemysses</hi> his Children, and to make payment to the Countess of <hi>Sutherland,</hi> as nearest of Kin to them, of the Sums therein contained.</p>
+            <p>To this it is Answered,
+<list>
+                  <item>1. That it cannot be found and declared, that the Countess of <hi>Sutherland</hi> has Right to the half, or any part of the Estate, or Rents thereof, nor can the Countess of <hi>Wemyss</hi> be decerned to denude her self of the half of the Estate, and make payment of the half of the saids Rents, because there is no Right produced thereto, in the Countess of <hi>Sutherland</hi> her Person. But upon the contrair<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> her pretended Right thereto is declared, be the Decreet of Improbation thereof, to be False and Feigned, and the Stories in her Petition, are <gap reason="illegible: faint" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>lse in matter of Fact, as they are Irrelevant in point of Law: And no ingenuous Lawer will affirm and give under his hand, that there is any Relevancy in it, And as to the Reflections upon the me<g ref="char:EOLhyphen"/>mory of her Father (who was Noble, Faithfull and Honest, and who kept his Word and Promise to all he gave it) the same ought duly to be Censured. 2. The Countess of <hi>Wemyss</hi> cannot be Decerned, to Exhibit &amp; Deliver the foresaids Bonds of Provision alledged granted to the Children. 1. Because it is not proven that they were such Bonds, or that she has them, &amp; which she positively denyes, and upon the contrair, in the Countess of <hi>Sutherlands</hi> Printed Information, it is affirmed, that they were Intrusted to the keeping of the Lord <hi>Burly</hi> her Grand<g ref="char:EOLhyphen"/>father, and far less can the Countess of <hi>Wemyss</hi> be Decerned, to make Payment of the faids Bonds to the Countess of <hi>Sutherland,</hi> unless the Bonds were first pro<g ref="char:EOLhyphen"/>duced, and that the Countess had established a Right thereto in her Person. But,</item>
+                  <item>2. The Countess of <hi>Wemyss</hi> has obtained a Decreet of Improbation of these Bonds, (if any such were) against the Countess of <hi>Sutherland,</hi> as false and feigned</item>
+               </list>
+            </p>
+            <p>Besides the Grounds foresaids, contained in the said Petition, there is a Prin<g ref="char:EOLhyphen"/>ted Information for the Countess of <hi>Sutherland,</hi> which contains the following Grounds also.</p>
+            <p n="1">1. That the Laws of this Nation, allows not a Father to prefer the youngest Child to the Inheritance, unless the eldest were a Fool, vitious, or had married Dishonourably. To this it is Answered, That it is strange, that any known Lawer should affirm this, since the Laws of this Nation hinders not a Father to Dispose of his own, or Dilapidat, and spend it at his pleasure.</p>
+            <p n="2">2. It is Alledged, that the Earl of <hi>Wemyss</hi> having received his Estate from his Ancestors, and not by Purchase, could not by the Antient Customs of this Nati<g ref="char:EOLhyphen"/>on, Dispose upon his Estate by his Lawfull Heir. It is Answered, That this is als unwarrantably Alledged as the former, else the many Antient Estates, that are now conveyed to others, would be still existing, conform to the first Settle<g ref="char:EOLhyphen"/>ments. And this Estate before the 1671. being absolutely Tailzied to Heirs Mail, could not have been Tailzied to the Countess of <hi>Sutherland, Anno</hi> 1649.</p>
+            <p n="3">3. It is Alledged, That the Earl of <hi>Wemyss Anno</hi> 1649. Disponed his Estate and Honour, failzieing his Male-issue, to the Countess of <hi>Sutherland</hi> and her Chil<g ref="char:EOLhyphen"/>dren, whether Sons or Daughters, they Assuming the Name and Arms, and that he had no Power to alter it, and further, that in Presence of the Persons conde<g ref="char:EOLhyphen"/>scended upon, he promised upon Oath, not to alter it.</p>
+            <p>As to this which is an Addition of New made up Stories, the Answer made to that part of the Petition, anent the Tailzie 1649. is Repeated.</p>
+            <p n="4">4. The Countess informs, that she dealt with her Father, to continue the In<g ref="char:EOLhyphen"/>tail made to her, and that she would procure for her Sister the Countess of <hi>Wemyss,</hi>
+               <pb n="9" facs="tcp:31331:6"/>one of the Noblest Matches in the Kingdom; and that the Lordship of <hi>Bothwel,</hi> which pertains to the Earl of <hi>Forfar,</hi> should be given as a Tocher with her, and that he rest of the Earl of <hi>Forfars</hi> Estate, should go as an Addition to the Estate of <hi>Wemyss,</hi> but that the Earl of <hi>Wemyss</hi> did not assent to it, for the Reasons mention<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in the Information.</p>
+            <p>As to this, the foresaid Alledgeance proves two things.
+<list>
+                  <item>1. That the Earl of <hi>Wemyss</hi> de<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: in gutter" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>gned from the beginning that the Countess of <hi>Wemyss</hi> his Daughter should succeed <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o his Estate, &amp; marry a Gentleman of his own Name &amp; Blood, and continue the <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>amily in the Line, and not confound it with another Family, else he would have <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onsulted the Honour and Greatness, which she might have had by the foresaid <gap reason="illegible: in gutter" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>reat Match.</item>
+                  <item>2. It proves, that the Countess of <hi>Wemyss</hi> Mother, could not be be cause of the Intail to her, but that rather she was for the foresaid great Match, which if need be is can be proven.</item>
+               </list>
+            </p>
+            <p n="5">5. The Information bears, that the Lord <hi>Brunt-Island</hi> and his Friends, after <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Earl of <hi>Wemyss</hi> death, made King <hi>Charles</hi> the second belive, that the Earl had <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>o Daughters alive but the Countess of <hi>Wemyss,</hi> and that the Countess of <hi>Suther<g ref="char:EOLhyphen"/>land</hi> was only his Sister; as to this, it is a new made up Storie, and absolutly false, <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>r the deceased Countes of <hi>Wemyss,</hi> and Countess of <hi>Sutherland,</hi> were two years <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd more together at <hi>London,</hi> several years before the Earl of <hi>Wemyss</hi> his death, <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd were daily together at Court, and the King knew the Countess of <hi>Sutherland</hi>
+               <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be the said Countess of <hi>Wemyss</hi> her Daughter in Law, and oft said to the Coun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: in gutter" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ss of <hi>Sutherland</hi> her self, that her Mother in Law looked younger than she.</p>
+            <p n="6">6. It is affirmed in the Petition, that the Lord <hi>Burnt-Island</hi> had only 30000 <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>erks, with which he purchased the Castle of <hi>Burnt-Island.</hi>
+            </p>
+            <p>To this it is answered, that the Lord <hi>Burnt-Island</hi> succeeded to the Estate of <hi>
+                  <gap reason="illegible: in gutter" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rnt-Island,</hi> as Heir to his Father who purchased it, and that he had a great Sum Money due to him upon the Estate of <hi>Wemyss,</hi> besides what he had in <hi>England</hi>
+               <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>d otherways.</p>
+            <p n="7">7. It is affirmed in the Petition, that the Deceased Countess of <hi>Wemyss</hi> payed <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e Earl of <hi>Wemyss</hi> Debts, with his own Rents, and took Assignations to the <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nds blank, in the Assigneys Name, and that thereby she designed to Dispone on the Estate, to whom she pleased, to Defraud the Countess of <hi>Sutherland.</hi> As to this, it is likeways a New Story, and most Calumnious, for the Deceast <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ountess of <hi>Wemyss,</hi> did never meddle with the Rents of the Estate, nor with <gap reason="illegible: in gutter" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e payment of the Debt thereof, nor had she ever a blank Assignation to a six <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nce of the samine.</p>
+            <p>By all which it is evident, that the Grounds of the Petition and Information <gap reason="illegible: in gutter" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> neither true in Fact, nor Relevant in Law, and that the proof cited, are <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ad Persons or Women, and that although, the Stories were Relevant, they <gap reason="illegible: in gutter" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>uld not be probable by Witnesses.</p>
+            <p>In Regard whereof, it is humbly craved, that the Lord <hi>Commissioner</hi> His Grace and honourable Estates of Parliament, would refuse the Desire of the foresaid Petition, and Assoilzie the Countess of <hi>Wemyss</hi> therefrom.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
